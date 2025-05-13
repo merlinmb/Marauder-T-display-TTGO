@@ -17,7 +17,7 @@
 
 ---
 
-📡 TTGO T-Display WiFi Marauder Fork 🚀
+📡 TTGO T-Display S3 WiFi Marauder Fork 🚀
 A stunning fork of the WiFi Marauder suite, optimized for the TTGO T-Display!
 This version introduces exciting new features, bug fixes, and customizations for WiFi/Bluetooth offensive and defensive tasks. Perfect for hobbyists and security enthusiasts!
 <br>
